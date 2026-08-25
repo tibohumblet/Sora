@@ -1,5 +1,5 @@
-# Laravel blog application 
+# Sora
 
 ## About 
 
-Application for learning purpuses. learning laravel.
+**Sora** is a Laravel blog application, the applicatin is primarily for getting to know laravel. 
